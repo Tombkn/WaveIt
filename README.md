@@ -14,9 +14,8 @@ Outputs:
 
 
 Parameters:
-
-Autoswitch: Go into the comp and place all the textures you want inside the Autoswitch base. Then, connect it to the switch so it automatically cycles through them. 
-            There is a standart ramp. All ramp parameters are only avaible if there is no custom ramp input.
+Autoswitch:  Go into the comp and place all the textures you want inside the Autoswitch base. Then, connect it to the switch so it automatically cycles through them. 
+             There is a standart ramp. All ramp parameters are only avaible if there is no custom ramp input.
 
 
 
